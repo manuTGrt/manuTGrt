@@ -33,8 +33,8 @@ Actualmente en desarrollo, ya permite autenticación y gestión de productos.
 ---
 
 ## 📈 Estadísticas de GitHub
-![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
+![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=manuTGrt&show_icons=true&theme=tokyonight)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=manuTGrt&layout=compact&theme=tokyonight)
 
 ---
 
