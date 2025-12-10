@@ -47,8 +47,8 @@ Mi propia web profesional, desarrollada con **Laravel 12, React 19 e Inertia.js*
 ## 📈 Estadísticas de GitHub
 > Funcionando sobre mi propio despliegue en Vercel para mayor fiabilidad.
 
-![Tus estadísticas](https://github-readme-stats-manu.vercel.app/api?username=manuel-tejada&show_icons=true&theme=tokyonight)
-![Lenguajes más usados](https://github-readme-stats-manu.vercel.app/api/top-langs/?username=manuel-tejada&layout=compact&theme=tokyonight&cache_seconds=7200)
+![Tus estadísticas](https://github-readme-stats-manu.vercel.app/api?username=manutgrt&show_icons=true&theme=tokyonight&cache_seconds=7200)
+![Lenguajes más usados](https://github-readme-stats-manu.vercel.app/api/top-langs/?username=manutgrt&layout=compact&theme=tokyonight&cache_seconds=7200)
 
 ---
 
