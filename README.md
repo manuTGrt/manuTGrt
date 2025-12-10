@@ -28,6 +28,7 @@ Desarrollado con **Laravel, React, Inertia.js y TailwindCSS**, desplegado en **L
 Incluye:
 - Autenticación completa  
 - Gestión de productos  
+- CRM completo  
 - Roles y permisos  
 - API interna  
 - Arquitectura escalable orientada a producción  
@@ -46,7 +47,7 @@ Mi propia web profesional, desarrollada con **Laravel 12, React 19 e Inertia.js*
 ## 📈 Estadísticas de GitHub
 > Funcionando sobre mi propio despliegue en Vercel para mayor fiabilidad.
 
-![Tus estadísticas](https://github-readme-stats-manu.vercel.app/api?username=manuel-tejada&show_icons=true&theme=tokyonight&cache_seconds=7200)
+![Tus estadísticas](https://github-readme-stats-manu.vercel.app/api?username=manuel-tejada&show_icons=true&theme=tokyonight)
 ![Lenguajes más usados](https://github-readme-stats-manu.vercel.app/api/top-langs/?username=manuel-tejada&layout=compact&theme=tokyonight&cache_seconds=7200)
 
 ---
