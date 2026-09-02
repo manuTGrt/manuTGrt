@@ -40,7 +40,7 @@ Incluye:
 ### 🔹 Portfolio Personal
 Mi propia web profesional, desarrollada con **Laravel 12, React 19 e Inertia.js** y base de datos en **PostgreSQL**.
 
-🔗 https://manutg-porfolio.myddns.com
+🔗 https://manutg-porfolio.manutech.duckdns.org
 
 ---
 
@@ -55,7 +55,7 @@ Mi propia web profesional, desarrollada con **Laravel 12, React 19 e Inertia.js*
 ## 📬 Contacto
 - 📧 Email: **manutgrt@gmail.com**
 - 💼 LinkedIn: [linkedin.com/in/manuel-tejada-guzman](https://www.linkedin.com/in/manuel-tejada-guzman/)
-- 🌍 Portfolio Web: https://manutg-porfolio.myddns.com
+- 🌍 Portfolio Web: https://manutg-porfolio.manutech.duckdns.org
 
 ---
 
